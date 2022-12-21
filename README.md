@@ -1,6 +1,6 @@
 <hr> 
 
-[<img alt="HTML5" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />](https://www.r-project.org/)
+[<img alt="HTML5" width="6%" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />](https://www.r-project.org/)[<img alt="Python"  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 
 <hr>
 
